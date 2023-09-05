@@ -1,3 +1,6 @@
+<h4>THE PASSWORD IS :</h4> mamghribmata9lwa
+
+
 <h4>SCREENSHOT</h4>
 <img src="https://img001.prntscr.com/file/img001/_AqlrtVKRQqpu8s861c_mA.png" alt="Tool in Action">
 <h1>SMTP Cracking Tool</h1>
